@@ -4,10 +4,10 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Get방식 요청</title>
+<title>Insert title here</title>
 </head>
 <body>
-<form action="Login" method="post">
+<form action="LoginCheck2.jsp">
 	<table>
 		<tr>
 			<th> 아 이 디 </th>
@@ -21,6 +21,5 @@
 	<input type="submit" value="로그인">
 	
 </form>
-
 </body>
 </html>
