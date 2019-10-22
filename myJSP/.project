@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>nyp_190924xml</name>
+	<name>myJSP</name>
 	<comment></comment>
 	<projects>
 	</projects>
@@ -28,11 +28,4 @@
 		<nature>org.eclipse.jdt.core.javanature</nature>
 		<nature>org.eclipse.wst.jsdt.core.jsNature</nature>
 	</natures>
-	<linkedResources>
-		<link>
-			<name>WebContent/LoginCheck2.jsp</name>
-			<type>1</type>
-			<location>D:/NYP/JAVA/apache-tomcat-8.5.45/webapps/makeLog/LoginCheck2.jsp</location>
-		</link>
-	</linkedResources>
 </projectDescription>
